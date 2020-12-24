@@ -20,7 +20,7 @@
     ],
     "intro": {
       "text": "intro.md",
-      "code": "background.sh"
+      "code": "foreground.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -29,7 +29,8 @@
   "environment": {
     "uieditorpath": "/root/example",
     "showide": true,
-    "uilayout": "terminal"
+    "uilayout": "terminal",
+    "hideintro": true
   },
   "backend": {
     "imageid": "ubuntu:1804"

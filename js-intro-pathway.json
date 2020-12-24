@@ -1,5 +1,11 @@
 {
   "title": "Introduction to JS",
   "description": "Let's learn about how JS works under the hood",
-  "courses": []
+  "courses": [
+    {
+      "course_id": "scope",
+      "title": "How scope works in JavaScript",
+  "description": "In this session we will look how scope works when we are writing JS"
+    }
+  ]
 }

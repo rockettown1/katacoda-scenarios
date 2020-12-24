@@ -27,7 +27,7 @@
     }
   },
   "environment": {
-   
+    "uieditorpath": "/root/example",
     "showide": true,
     "uilayout": "terminal"
   },

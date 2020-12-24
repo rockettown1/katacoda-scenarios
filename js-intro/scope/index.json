@@ -28,8 +28,8 @@
   },
   "environment": {
    
-    "showide": true,
-    "uilayout": "terminal-iframe"
+    "showide": true
+    
   },
   "backend": {
     "imageid": "ubuntu:1804"

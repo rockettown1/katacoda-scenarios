@@ -27,7 +27,7 @@
     }
   },
   "environment": {
-    "uieditorpath": "/root",
+    "uieditorpath": "/root/demo_app",
     "showide": true,
     "uilayout": "terminal",
     "hideintro": true,

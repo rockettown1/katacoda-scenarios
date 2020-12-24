@@ -26,11 +26,9 @@
     }
   },
   "environment": {
-    "showdashboard": true,
-    "dashboards": [
-        {"name": "Browser", "port": 3000}],
+   
     "showide": true,
-    "uilayout": "terminal-iframe"
+    "uilayout": "vscode-terminal-split"
   },
   "backend": {
     "imageid": "ubuntu:1804"

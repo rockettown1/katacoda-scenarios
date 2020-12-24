@@ -27,7 +27,7 @@
   },
   "environment": {
     "showide": true,
-    "uilayout": "vscode"
+    "uilayout": "terminal-iframe"
   },
   "backend": {
     "imageid": "ubuntu:1804"

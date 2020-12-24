@@ -30,7 +30,8 @@
     "uieditorpath": "/root",
     "showide": true,
     "uilayout": "terminal",
-    "hideintro": true
+    "hideintro": true,
+    "hideHiddenFiles": true
   },
   "backend": {
     "imageid": "ubuntu:1804"

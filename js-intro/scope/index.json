@@ -29,7 +29,7 @@
   "environment": {
     "uieditorpath": "/root",
     "showide": true,
-    "uilayout": "terminal",
+    "uilayout": "editor-terminal",
     "hideintro": true
   },
   "backend": {

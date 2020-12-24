@@ -1,14 +1,17 @@
 #!/bin/sh
 
-echo "This script is how we can begin a React application"
+{
+  echo "This script is how we can begin a React application."
+  echo "Command: npx create-react-app 'theNameOfYourApp'"
+} 2> /dev/null
 
-echo "Command: npx create-react-app 'theNameOfYourApp'"
 
-npx create-react-app demoApp
 
-echo "Then we change directory (cd) into it"
+npx create-react-app demo_app
 
-cd demoApp
+{ echo "Then we change directory (cd) into it";} 2> /dev/null
+
+cd demo_app
 
 echo "We can start the development server using 'npm start'"
 

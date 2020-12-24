@@ -26,7 +26,8 @@
     }
   },
   "environment": {
-    "showide": true
+    "showide": true,
+    "uilayout": "editor-terminal"
   },
   "backend": {
     "imageid": "nodejs:12"

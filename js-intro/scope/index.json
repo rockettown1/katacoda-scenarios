@@ -19,7 +19,8 @@
       }
     ],
     "intro": {
-      "text": "intro.md"
+      "text": "intro.md",
+      "courseData": "background.sh"
     },
     "finish": {
       "text": "finish.md"
@@ -28,7 +29,7 @@
   "environment": {
    
     "showide": true,
-    "uilayout": "vscode-terminal-split"
+    "uilayout": "terminal-iframe"
   },
   "backend": {
     "imageid": "ubuntu:1804"

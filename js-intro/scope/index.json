@@ -27,12 +27,12 @@
     }
   },
   "environment": {
-    "uieditorpath": "/root/example",
+    "uieditorpath": "/root",
     "showide": true,
     "uilayout": "terminal",
     "hideintro": true
   },
   "backend": {
-    "imageid": "ubuntu:1804"
+    "imageid": "node"
   }
 }

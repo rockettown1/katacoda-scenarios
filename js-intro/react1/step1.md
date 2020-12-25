@@ -7,7 +7,7 @@
 
 **While we wait for this to finish**, let's quickly discuss what create-react-app actually is!
 
-A quick way to start working with the React library is to use a starter project. This will have all the files and config you need to get started. create-react-app is probably most popular starter project, especially for beginners. Over the course of this session we will explore create-react-app in more detail. We will be using NPM (node package manager) to get code from this package. This particular demo uses a different package manager called Yarn. Don't let that confuse you, will be using NPM for our development.
+A quick way to start working with the React library is to use a starter project. This will have all the files and config you need to get started. create-react-app is probably the most popular starter project, especially for beginners. Over the course of this session we will explore create-react-app in more detail. We will be using NPM (node package manager) to get code from this package.
 
 ### Whenever we would like to start a new React project
 
@@ -29,3 +29,5 @@ In terminal commands that translates to:
 5. `npm start`
 
 Once your development server has started **continue** to the next section 🤓
+
+> Note: This particular demo uses a different package manager called Yarn. Don't let that confuse you, will be using NPM for our development.

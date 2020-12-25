@@ -1,29 +1,30 @@
 ## Using Create-React-App
 
-A quick way to start working with the React library is to use a starter project. This will have all the files and config you need to get started.
+Currently being executed:
 
-create-react-app is the starter project that is most popular especially for beginners.
+> npx create-react-app demo_app
 
-## Wait for these commands to finish and your development server to start
+**While we wait for this to finish**, let's quickly discuss what create-react-app actually is!
 
-What is actually being executed in the terminal?
-npx create-react-app demo_app
-npm start
+A quick way to start working with the React library is to use a starter project. This will have all the files and config you need to get started. create-react-app is probably most popular starter project, especially for beginners. Over the course of these 'scenarios' we will exploere
 
-When you want to start a react project you can run the command:
+### Whenever we would like to start a new React project
 
-`npx create-react-app name-of-app`
+We need to do the following things:
 
-where the name-of-app is anything you want.
+1. Have node.js installed on our machine (this scenario already has it installed). This is a one time install.
+2. Use our terminal and move to the folder where we want to CREATE the new project
+3. Create the new react project - using the create-react-app starter setup. This will create a brand new folder, with all the code and config you need to get started.
+4. Open the project folder in an IDE (for example Visual Studio Code)
+5. In the terminal (ensuring you are in the correct project folder that was created for you) start the development server. Create-react-app has a development server built in.
+6. ...then off we go.
 
-Once React has finished installing we would open this folder in your IDE (eg VSCode)
-Then to start your development server you would first make sure you were in the new project folder, then execute npm start.
+In terminal commands that translates to:
 
-```
-cd name-of-app
-npm start
-```
+1. `node --version` (if a version number comes back in the terminal you have node installed)
+2. `cd myFolder` (use the terminal to move to a folder)
+3. `npx create-react-app project_name` (where _project_name_ can be anything you want)
+4. `cd project_name` (move to the new folder create-react-app created for you)
+5. `npm start`
 
-Once your development server has started, open a new tab by clicking on the plus icon to see the default starting UI with create-react-app.
-
-You can also open the VSCode tab to see what folders and files you have created.
+Once your development server has started **continue** to the next section 🤓

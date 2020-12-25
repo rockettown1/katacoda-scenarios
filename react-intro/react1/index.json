@@ -10,11 +10,11 @@
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Viewing our app",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "What folders were made for us?",
         "text": "step3.md"
       }
     ],
@@ -29,7 +29,7 @@
   "environment": {
     "uieditorpath": "/root/demo_app",
     "showide": true,
-    "uilayout": "terminal",
+    "uilayout": "terminal-iframe",
     "hideintro": true,
     "hideHiddenFiles": true
   },

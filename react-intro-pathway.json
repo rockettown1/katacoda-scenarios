@@ -1,6 +1,6 @@
 {
-  "title": "Introduction to JS",
-  "description": "Let's learn about how JS works under the hood",
+  "title": "Introduction to React.js",
+  "description": "Let's get started with React.js",
   "courses": [
     {
       "course_id": "react1",

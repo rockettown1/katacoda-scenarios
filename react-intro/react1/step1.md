@@ -28,6 +28,6 @@ In terminal commands that translates to:
 4. `cd project_name` (move to the new folder create-react-app created for you)
 5. `npm start`
 
-Once your development server has started **continue** to the next section 🤓
+Once your development server has started, and you see **compiled successfully**, press Continue to go to the next section 🤓
 
-> Note: This particular demo uses a different package manager called Yarn. Don't let that confuse you, will be using NPM for our development.
+> Note: This particular demo uses a different package manager called Yarn. So if you ever see a reference to 'Yarn' it's just for this interactive introduction. Don't let it confuse you, will be using NPM for our development.

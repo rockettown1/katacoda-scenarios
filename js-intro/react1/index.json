@@ -1,12 +1,12 @@
 {
-  "title": "How scope works in JavaScript",
-  "description": "In this session we will look how scope works when we are writing JS",
+  "title": "Getting Started with React.js",
+  "description": "In this session we will get started with React.js, a JavaScript library for crafting amazing user interfaces",
   "difficulty": "Beginner",
   "time": "20 minutes",
   "details": {
     "steps": [
       {
-        "title": "Getting Started with React.js",
+        "title": "Using Create-React-App",
         "text": "step1.md"
       },
       {

@@ -3,9 +3,9 @@
   "description": "Let's learn about how JS works under the hood",
   "courses": [
     {
-      "course_id": "scope",
-      "title": "How scope works in JavaScript",
-      "description": "In this session we will look how scope works when we are writing JS"
+      "course_id": "react1",
+      "title": "Getting Started with React.js",
+      "description": "In this session we will get started with React.js, a JavaScript library for crafting amazing user interfaces"
     }
   ]
 }

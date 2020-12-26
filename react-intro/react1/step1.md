@@ -24,7 +24,7 @@ In terminal commands that translates to:
 
 1. `node --version` (if a version number comes back in the terminal you have node installed)
 2. `cd myFolder` (use the terminal to move to a folder)
-3. `npx create-react-app project_name` (where _project_name_ can be anything you want)
+3. `npx create-react-app project_name` (where project_name can be anything you want)
 4. `cd project_name` (move to the new folder create-react-app created for you)
 5. `npm start`
 

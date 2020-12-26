@@ -4,7 +4,11 @@
   "difficulty": "Beginner",
   "time": "20 minutes",
   "details": {
-   
+    "assets": {
+      "client": [{
+        "file": "test.js", "target": "/root"
+      }]
+    },
     "steps": [
       {
         "title": "Using Create-React-App",
